@@ -3,4 +3,4 @@
 a = int(input("Enter First number : "))
 b = int(input("Enter Second number : "))
 c=a+b
-print("Addition of Two mumbers are", c)
+print("Sum of Two mumbers :", c)
