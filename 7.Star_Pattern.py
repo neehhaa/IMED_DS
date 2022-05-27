@@ -6,9 +6,10 @@ Pattern Printing
 * * * *
 """
 
-rows = int(input("Enter the number of rows : "))
-for i in range(0,rows):
-    for j in range(0,i+1):
-        print("* ",end=" ")
+num_rows = int(input("Enter the number of rows : "))
+
+for row in range(1,num_rows+1):
+    for column in range(row,0,-1):
+        print("*",end=" ")
     print()
 
