@@ -1,7 +1,8 @@
 """WAP to Print any 5 patterns.
 
-(i)
+(i) Reversed Right Angled Triangle
 
+* * * * *
 * * * *
 * * * 
 * * 
