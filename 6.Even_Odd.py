@@ -9,8 +9,3 @@ for i in range(0, 11):
         odd_list.append(i)
 print(even_list)
 print(odd_list)
-
-
-
-
-
