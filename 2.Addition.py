@@ -1,4 +1,8 @@
-# Write a program to display the addition of two numbers.
+"""
+
+Write a program to display the addition of two numbers.
+
+"""
 
 a = int(input("Enter First number : "))
 b = int(input("Enter Second number : "))

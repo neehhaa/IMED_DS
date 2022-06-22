@@ -1,4 +1,8 @@
-# Write a program to display the factorial of a given number.
+"""
+
+Write a program to display the factorial of a given number.
+
+"""
 
 num = int(input("Enter the number : "))
 factorial = 1

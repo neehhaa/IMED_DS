@@ -1,4 +1,8 @@
-# To find minimum and maximum numbers in a user given list.
+"""
+
+To find minimum and maximum numbers in a user given list.
+
+"""
 
 num = int(input("Enter number of elements : "))
 num_list = []

@@ -1,4 +1,8 @@
-# To print even numbers and odd numbers from 1 to 10.
+"""
+
+To print even numbers and odd numbers from 1 to 10.
+
+"""
 
 even_list = []
 odd_list = []

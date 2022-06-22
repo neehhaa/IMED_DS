@@ -1,9 +1,12 @@
 """
-Pattern Printing
+
+Write a program to generate the following patterns.
+
 *
 * *
 * * *
 * * * *
+
 """
 
 rows = int(input("Enter the number of rows : "))

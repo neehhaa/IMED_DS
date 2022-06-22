@@ -1,4 +1,8 @@
-# To find prime numbers in a given user list using python.
+"""
+
+To find prime numbers in a given user list using python.
+
+"""
 
 num = int(input("Enter number of elements in the list : "))
 num_list = []

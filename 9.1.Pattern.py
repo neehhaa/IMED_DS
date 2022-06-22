@@ -1,4 +1,6 @@
-"""WAP to Print any 5 patterns.
+"""
+
+Write a program to Print any 5 patterns.
 
 (i) Reversed Right Angled Triangle
 
